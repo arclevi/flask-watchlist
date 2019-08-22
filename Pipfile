@@ -4,6 +4,7 @@ verify_ssl = true
 name = "douban"
 
 [dev-packages]
+coverage = "*"
 
 [packages]
 flask = "*"
